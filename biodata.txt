@@ -1,2 +1,4 @@
 No.REG : 2320010130
 Nama : Dhymas Wahyu Gumelar
+Jurusan : Software Engineering
+Jurusan : Software Engineering (SE)
